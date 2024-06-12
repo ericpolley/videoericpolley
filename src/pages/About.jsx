@@ -6,19 +6,18 @@ export default function About() {
     <div className='w-full text-center '>
       <h1 className='text-2xl font-medium '>About</h1>
 
-      <div className='flex flex-col w-full mt-8 justify-center items-center'>
+      <div className='flex flex-col w-full mt-8 justify-center items-center '>
         <p className='text-lg font-medium mb-6'>About Eric Polley</p>
-        <p>
-        Eric Polley was born in Portland, Oregon and spent his childhood moving around a lot. Despite the frequent changes in location, Eric always had a passion for creativity and technology. In his free time, he enjoyed playing various musical instruments and building computers.
+        <p className='s:ml-4 s:mr-4 md:ml-24 md:mr-24 '>
+        Welcome to my creative corner! I’m a passionate video editor and videographer with a strong foundation in animation and a talent for capturing the perfect shot. Proficient in Adobe Premiere Pro, After Effects, and Blender, I blend technical skill with artistic vision to create visually captivating and compelling videos.
+        <br /><br />
+In my current role, I've honed my videography and editing skills, ensuring that each project is both visually stunning and narratively engaging. My background in animation allows me to incorporate dynamic visual effects that enhance the overall storytelling experience.
+<br />
+Outside of my professional life, I have a diverse range of hobbies that keep me inspired and energized. I enjoy flying drones, offering a fresh perspective to my videography. 
 <br /><br />
-After high school, Eric started working a regular day job with long hours, consistently working 60 hours per week. Despite his busy schedule, he continued to pursue his passion for animation as a moonlight freelance animator. Infact, the long hour day job may have funded the opportunity to move forward with a new career.
-<br /><br />
-In September 2021, Eric made the decision to take on freelance animation full-time. He was skilled in using programs such as Blender and Animate CC, and was always looking for ways to improve his craft.
-<br /><br />
-<br /><br />
-In his free time, Eric continues to enjoy playing musical instruments and building computers. He also loves spending time with his daughter, playing card games such as Dungeon Mayhem and Munchkins; Or playing Minecraft ( If his daughter can convince him to play )
-<br /><br />
-Overall, Eric is a dedicated and talented individual with a passion for creativity and technology. He is always looking for ways to improve his skills and pursue his passions, and his dedication to his craft is evident in the quality of his work.
+Music is another passion; I play the drums, piano, and guitar. 
+<br />
+When I’m not behind the camera or making music, you might find me kayaking, 3D printing, or spending quality time with my family. Whether it’s BBQs, video games, or card games, family time is my favorite way to unwind and stay grounded.
 <br /><br />
 
 

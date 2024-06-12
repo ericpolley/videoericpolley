@@ -74,9 +74,9 @@ function App() {
     <Route exact path="/blog" element={<Blog />} />
     <Route exact path="/contact" element={<Contact />} />
     <Route exact path="/software" element={<SoftwarePortfolio />} />
-    <Route exact path="/portfolio" element={<SoftwarePortfolio />} />
+
     <Route exact path="/game" element={<GamePortfolio />} />
-    <Route exact path="/animation" element={<AnimationPortfolio />} />
+    <Route exact path="/portfolio" element={<AnimationPortfolio />} />
     <Route exact path="/news" element={<Videos />} />
     <Route exact path="/tutorials" element={<Tutorials />} />
     <Route exact path="/blog/001" element={<Blog001 />} />
