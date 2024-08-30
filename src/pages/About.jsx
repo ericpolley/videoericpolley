@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
 
 export default function About() {
   return (
@@ -25,11 +24,7 @@ When I’m not behind the camera or making music, you might find me kayaking, 3D
 
         </p>
 
-        <Link to="/contact" className=' '>
-<div className='m-8 mb-16 p-2 bg-red-500 text-white hover:text-black hover:border-gray-600 hover:bg-red-300 border-black rounded-xl border-4 text-xl w-[40vw]'>
-  <p>Contact for a quote</p>
-</div>
-</Link>
+
 
         <div className='flex flex-col flex-wrap'>
       <p className='m-6 text-xl'>Eric Polley</p>
@@ -68,8 +63,7 @@ When I’m not behind the camera or making music, you might find me kayaking, 3D
 
 </div>
       <a href="mailto:ericpolley@live.com" target="_blank" rel="noreferrer" className='focus:text-blue-400 text-blue-700 hover:text-blue-300 m-2'><p>ericpolley@live.com</p></a>
-      <p className='m-4'>(509)868-2692</p>
-      <p className='m-4'>Discord: erpolley#5318</p>
+
 
      
 </div>

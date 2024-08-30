@@ -30,7 +30,7 @@ export default function Header() {
         
     <div className='w-full flex flex-row justify-center shadow-xl mb-4  border-b-4 border-black'>
    {/* NAV BAR */}
-        <div className='w-[80vw] md:w-[60vw] flex justify-between mb-4 font-semibold '>
+        <div className='w-[85vw] md:w-[50vw] flex justify-between mb-4 font-semibold '>
 
             {/* NAV BAR LOGO */}
             <div className='mt-4'>

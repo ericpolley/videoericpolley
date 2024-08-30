@@ -7,8 +7,12 @@ export default function Contact() {
        <div className='w-full text-center'>
       <h1 className='text-2xl font-medium'>Contact</h1>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScuWxI6pKSlsVX3UR-Tcu5n00GOMp0QyfcI7Cpb_3jLGoEEZA/viewform" frameborder="0" title='form' className='w-full h-[80vh] border-4 border-black rounded-md'></iframe>
-
+      <p className='md:m-24 sm:m-8 '> <a
+      href="mailto:ericpolley@live.com"
+      className=" text-4xl font-bold text-blue-500 hover:text-blue-700 hover:shadow-lg transition-all duration-300"
+    >
+      ericpolley@live.com
+    </a></p>
 
 <div className='flex flex-row justify-center items-center md:space-x-6 space-x-2 mb-6 mt-4'>
       {/* Social media */}

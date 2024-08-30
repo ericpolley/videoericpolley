@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
 
 export default function Home() {
   return (
@@ -27,11 +26,7 @@ Whether capturing moments behind the camera or crafting them in the editing suit
 </div>
 </div>
 
-      <Link to="/contact" className=' '>
-<div className='m-2 mb-12 p-2 bg-red-500 text-white hover:text-black hover:border-gray-600 hover:bg-red-300 border-black rounded-xl border-4 text-xl w-[40vw]'>
-  <p>Contact for a quote</p>
-</div>
-</Link>
+
 
     </div>
   )
